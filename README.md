@@ -93,11 +93,3 @@ Set-Location -Path $AgentExtractPath
 ## Contributing
 
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README further to suit your needs. Happy coding! 🚀
